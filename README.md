@@ -6,7 +6,6 @@ This is the official implementation for our paper "DLSAG: Dynamic Load-aware Ste
 - Python 3.8
 - PyTorch 2.1
 - PyTorch Geometric 2.6
-- scikit-learn 1.0.2
 - NetworkX 3.0
 
 ## Running the Code
